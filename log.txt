@@ -1,0 +1,525 @@
+Player in game:3
+Deck in game:2
+Player:ali has been added to game!
+Player:usman has been added to game!
+Player:raqeeb has been added to game!
+Deck 1 has been added to game!
+Deck 2 has been added to game!
+
+
+
+------Shuffled Pile--------
+
+{4, Hearts, Four}
+{King, Spades, King}
+{Queen, Spades, Queen}
+{10, Club, Ten}
+{3, Spades, Three}
+{6, Hearts, Six}
+{10, Diamond, Ten}
+{4, Spades, Four}
+{3, Diamond, Three}
+{9, Spades, Nine}
+{Jack, Diamond, Jack}
+{5, Spades, Five}
+{Queen, Club, Queen}
+{8, Diamond, Eight}
+{5, Hearts, Five}
+{King, Spades, King}
+{7, Hearts, Seven}
+{King, Club, King}
+{Ace, Diamond, Ace}
+{Ace, Club, Ace}
+{3, Spades, Three}
+{8, Club, Eight}
+{7, Club, Seven}
+{8, Spades, Eight}
+{5, Club, Five}
+{Ace, Club, Ace}
+{3, Club, Three}
+{7, Diamond, Seven}
+{5, Club, Five}
+{6, Spades, Six}
+{9, Hearts, Nine}
+{7, Hearts, Seven}
+{4, Club, Four}
+{4, Hearts, Four}
+{8, Club, Eight}
+{7, Spades, Seven}
+{6, Spades, Six}
+{2, Club, Two}
+{5, Diamond, Five}
+{Ace, Hearts, Ace}
+{10, Diamond, Ten}
+{Ace, Diamond, Ace}
+{Queen, Club, Queen}
+{6, Diamond, Six}
+{3, Hearts, Three}
+{3, Hearts, Three}
+{9, Club, Nine}
+{7, Diamond, Seven}
+{9, Club, Nine}
+{King, Club, King}
+{2, Diamond, Two}
+{2, Club, Two}
+{Jack, Spades, Jack}
+{3, Diamond, Three}
+{9, Spades, Nine}
+{King, Diamond, King}
+{8, Hearts, Eight}
+{5, Hearts, Five}
+{10, Spades, Ten}
+{9, Hearts, Nine}
+{2, Hearts, Two}
+{Queen, Hearts, Queen}
+{Ace, Spades, Ace}
+{7, Club, Seven}
+{4, Spades, Four}
+{6, Club, Six}
+{King, Hearts, King}
+{10, Hearts, Ten}
+{2, Spades, Two}
+{4, Diamond, Four}
+{King, Hearts, King}
+{6, Hearts, Six}
+{Queen, Hearts, Queen}
+{9, Diamond, Nine}
+{8, Hearts, Eight}
+{Queen, Diamond, Queen}
+{King, Diamond, King}
+{Ace, Spades, Ace}
+{6, Club, Six}
+{3, Club, Three}
+{Jack, Diamond, Jack}
+{Queen, Spades, Queen}
+{10, Club, Ten}
+{8, Diamond, Eight}
+{4, Diamond, Four}
+{5, Spades, Five}
+{Ace, Hearts, Ace}
+{10, Hearts, Ten}
+{5, Diamond, Five}
+{10, Spades, Ten}
+{Jack, Spades, Jack}
+{2, Diamond, Two}
+{2, Hearts, Two}
+{Jack, Club, Jack}
+{9, Diamond, Nine}
+{Queen, Diamond, Queen}
+{Jack, Club, Jack}
+{2, Spades, Two}
+{4, Club, Four}
+{7, Spades, Seven}
+{Jack, Hearts, Jack}
+{8, Spades, Eight}
+{6, Diamond, Six}
+{Jack, Hearts, Jack}
+
+
+
+---Setting color of game---
+
+
+
+Player:ali has received:{4, Hearts, Four}
+Player:usman has received:{King, Spades, King}
+Player:raqeeb has received:{Queen, Spades, Queen}
+Player:ali has received:{10, Club, Ten}
+Player:usman has received:{3, Spades, Three}
+Player:raqeeb has received:{6, Hearts, Six}
+Player:ali has received:{10, Diamond, Ten}
+Player:usman has received:{4, Spades, Four}
+Player:raqeeb has received:{3, Diamond, Three}
+Player:ali has received:{9, Spades, Nine}
+Player:usman has received:{Jack, Diamond, Jack}
+
+
+Player:ali setting game color to :Club
+
+
+---Again Shuffling Card---
+
+{King, Spades, King}
+{Queen, Hearts, Queen}
+{10, Diamond, Ten}
+{Ace, Club, Ace}
+{3, Club, Three}
+{Jack, Hearts, Jack}
+{Jack, Spades, Jack}
+{6, Diamond, Six}
+{9, Spades, Nine}
+{7, Diamond, Seven}
+{Queen, Diamond, Queen}
+{King, Hearts, King}
+{Queen, Hearts, Queen}
+{8, Club, Eight}
+{3, Spades, Three}
+{4, Club, Four}
+{3, Diamond, Three}
+{Jack, Hearts, Jack}
+{7, Club, Seven}
+{8, Hearts, Eight}
+{10, Diamond, Ten}
+{8, Diamond, Eight}
+{King, Diamond, King}
+{6, Hearts, Six}
+{Queen, Club, Queen}
+{3, Club, Three}
+{King, Spades, King}
+{3, Spades, Three}
+{Queen, Spades, Queen}
+{6, Club, Six}
+{Jack, Club, Jack}
+{Queen, Spades, Queen}
+{7, Hearts, Seven}
+{Ace, Diamond, Ace}
+{2, Hearts, Two}
+{6, Spades, Six}
+{4, Spades, Four}
+{5, Spades, Five}
+{7, Hearts, Seven}
+{4, Hearts, Four}
+{7, Club, Seven}
+{3, Hearts, Three}
+{King, Hearts, King}
+{8, Diamond, Eight}
+{Ace, Club, Ace}
+{10, Club, Ten}
+{Jack, Spades, Jack}
+{2, Spades, Two}
+{9, Hearts, Nine}
+{2, Diamond, Two}
+{Ace, Spades, Ace}
+{10, Hearts, Ten}
+{9, Club, Nine}
+{2, Spades, Two}
+{5, Diamond, Five}
+{King, Club, King}
+{6, Spades, Six}
+{Ace, Hearts, Ace}
+{Queen, Diamond, Queen}
+{3, Diamond, Three}
+{7, Spades, Seven}
+{9, Diamond, Nine}
+{4, Club, Four}
+{5, Club, Five}
+{7, Spades, Seven}
+{5, Diamond, Five}
+{10, Hearts, Ten}
+{Ace, Spades, Ace}
+{4, Diamond, Four}
+{Ace, Diamond, Ace}
+{6, Hearts, Six}
+{5, Hearts, Five}
+{King, Club, King}
+{King, Diamond, King}
+{8, Spades, Eight}
+{2, Hearts, Two}
+{8, Club, Eight}
+{9, Club, Nine}
+{10, Spades, Ten}
+{Jack, Club, Jack}
+{4, Diamond, Four}
+{Jack, Diamond, Jack}
+{Jack, Diamond, Jack}
+{7, Diamond, Seven}
+{9, Diamond, Nine}
+{5, Spades, Five}
+{3, Hearts, Three}
+{2, Diamond, Two}
+{5, Club, Five}
+{2, Club, Two}
+{2, Club, Two}
+{6, Diamond, Six}
+{5, Hearts, Five}
+{9, Spades, Nine}
+{4, Hearts, Four}
+{8, Hearts, Eight}
+{6, Club, Six}
+{10, Spades, Ten}
+{9, Hearts, Nine}
+{8, Spades, Eight}
+{4, Spades, Four}
+{10, Club, Ten}
+{Queen, Club, Queen}
+{Ace, Hearts, Ace}
+
+
+
+---Making Players hand empty---
+
+
+Make hand empty of Player:usman
+Make hand empty of Player:ali
+Make hand empty of Player:raqeeb
+
+
+
+Againg Distributing Card----
+
+
+Player:usman has received:{King, Spades, King}
+Player:ali has received:{Queen, Hearts, Queen}
+Player:raqeeb has received:{10, Diamond, Ten}
+Player:usman has received:{Ace, Club, Ace}
+Player:ali has received:{3, Club, Three}
+Player:raqeeb has received:{Jack, Hearts, Jack}
+Player:usman has received:{Jack, Spades, Jack}
+Player:ali has received:{6, Diamond, Six}
+Player:raqeeb has received:{9, Spades, Nine}
+Player:usman has received:{7, Diamond, Seven}
+Player:ali has received:{Queen, Diamond, Queen}
+Player:raqeeb has received:{King, Hearts, King}
+Player:usman has received:{Queen, Hearts, Queen}
+Player:ali has received:{8, Club, Eight}
+Player:raqeeb has received:{3, Spades, Three}
+Player:usman has received:{4, Club, Four}
+Player:ali has received:{3, Diamond, Three}
+Player:raqeeb has received:{Jack, Hearts, Jack}
+Player:usman has received:{7, Club, Seven}
+Player:ali has received:{8, Hearts, Eight}
+Player:raqeeb has received:{10, Diamond, Ten}
+Player:usman has received:{8, Diamond, Eight}
+Player:ali has received:{King, Diamond, King}
+Player:raqeeb has received:{6, Hearts, Six}
+Player:usman has received:{Queen, Club, Queen}
+Player:ali has received:{3, Club, Three}
+Player:raqeeb has received:{King, Spades, King}
+Player:usman has received:{3, Spades, Three}
+Player:ali has received:{Queen, Spades, Queen}
+Player:raqeeb has received:{6, Club, Six}
+Player:usman has received:{Jack, Club, Jack}
+Player:ali has received:{Queen, Spades, Queen}
+Player:raqeeb has received:{7, Hearts, Seven}
+Player:usman has received:{Ace, Diamond, Ace}
+Player:ali has received:{2, Hearts, Two}
+Player:raqeeb has received:{6, Spades, Six}
+Player:usman has received:{4, Spades, Four}
+Player:ali has received:{5, Spades, Five}
+Player:raqeeb has received:{7, Hearts, Seven}
+Player:usman has received:{4, Hearts, Four}
+Player:ali has received:{7, Club, Seven}
+Player:raqeeb has received:{3, Hearts, Three}
+Player:usman has received:{King, Hearts, King}
+Player:ali has received:{8, Diamond, Eight}
+Player:raqeeb has received:{Ace, Club, Ace}
+Player:usman has received:{10, Club, Ten}
+Player:ali has received:{Jack, Spades, Jack}
+Player:raqeeb has received:{2, Spades, Two}
+Player:usman has received:{9, Hearts, Nine}
+Player:ali has received:{2, Diamond, Two}
+Player:raqeeb has received:{Ace, Spades, Ace}
+Player:usman has received:{10, Hearts, Ten}
+Player:ali has received:{9, Club, Nine}
+Player:raqeeb has received:{2, Spades, Two}
+Player:usman has received:{5, Diamond, Five}
+Player:ali has received:{King, Club, King}
+Player:raqeeb has received:{6, Spades, Six}
+Player:usman has received:{Ace, Hearts, Ace}
+Player:ali has received:{Queen, Diamond, Queen}
+Player:raqeeb has received:{3, Diamond, Three}
+Player:usman has received:{7, Spades, Seven}
+Player:ali has received:{9, Diamond, Nine}
+Player:raqeeb has received:{4, Club, Four}
+Player:usman has received:{5, Club, Five}
+Player:ali has received:{7, Spades, Seven}
+Player:raqeeb has received:{5, Diamond, Five}
+Player:usman has received:{10, Hearts, Ten}
+Player:ali has received:{Ace, Spades, Ace}
+Player:raqeeb has received:{4, Diamond, Four}
+Player:usman has received:{Ace, Diamond, Ace}
+Player:ali has received:{6, Hearts, Six}
+Player:raqeeb has received:{5, Hearts, Five}
+Player:usman has received:{King, Club, King}
+Player:ali has received:{King, Diamond, King}
+Player:raqeeb has received:{8, Spades, Eight}
+Player:usman has received:{2, Hearts, Two}
+Player:ali has received:{8, Club, Eight}
+Player:raqeeb has received:{9, Club, Nine}
+Player:usman has received:{10, Spades, Ten}
+Player:ali has received:{Jack, Club, Jack}
+Player:raqeeb has received:{4, Diamond, Four}
+Player:usman has received:{Jack, Diamond, Jack}
+Player:ali has received:{Jack, Diamond, Jack}
+Player:raqeeb has received:{7, Diamond, Seven}
+Player:usman has received:{9, Diamond, Nine}
+Player:ali has received:{5, Spades, Five}
+Player:raqeeb has received:{3, Hearts, Three}
+Player:usman has received:{2, Diamond, Two}
+Player:ali has received:{5, Club, Five}
+Player:raqeeb has received:{2, Club, Two}
+Player:usman has received:{2, Club, Two}
+Player:ali has received:{6, Diamond, Six}
+Player:raqeeb has received:{5, Hearts, Five}
+Player:usman has received:{9, Spades, Nine}
+Player:ali has received:{4, Hearts, Four}
+Player:raqeeb has received:{8, Hearts, Eight}
+Player:usman has received:{6, Club, Six}
+Player:ali has received:{10, Spades, Ten}
+Player:raqeeb has received:{9, Hearts, Nine}
+Player:usman has received:{8, Spades, Eight}
+Player:ali has received:{4, Spades, Four}
+Player:raqeeb has received:{10, Club, Ten}
+Player:usman has received:{Queen, Club, Queen}
+Player:ali has received:{Ace, Hearts, Ace}
+
+
+
+usman Turn---
+
+
+usman Dump Following Card(s) in open pile----
+{Queen, Club, Queen}
+{7, Spades, Seven}
+{Queen, Hearts, Queen}
+{King, Club, King}
+{Jack, Diamond, Jack}
+
+
+
+ali Turn---
+
+
+ali Dump Following Card(s) in open pile----
+{Queen, Diamond, Queen}
+{Ace, Spades, Ace}
+{2, Hearts, Two}
+{5, Club, Five}
+{4, Hearts, Four}
+
+
+
+raqeeb Turn---
+
+
+raqeeb Dump Following Card(s) in open pile----
+{Jack, Hearts, Jack}
+{9, Spades, Nine}
+{7, Diamond, Seven}
+{6, Spades, Six}
+{2, Spades, Two}
+
+
+---usman replacing card in open pile---
+
+{9, Diamond, Nine}
+ replaced with {7, Spades, Seven}
+{Ace, Club, Ace}
+ replaced with {Queen, Hearts, Queen}
+
+
+---ali replacing card in open pile---
+
+{4, Spades, Four}
+ replaced with {Queen, Diamond, Queen}
+{King, Club, King}
+ replaced with {9, Spades, Nine}
+
+
+---raqeeb replacing card in open pile---
+
+{9, Hearts, Nine}
+ replaced with {2, Spades, Two}
+{King, Hearts, King}
+ replaced with {Queen, Club, Queen}
+usman Showing Hand---
+
+{King, Spades, King}
+{Jack, Spades, Jack}
+{7, Diamond, Seven}
+{4, Club, Four}
+{7, Club, Seven}
+{8, Diamond, Eight}
+{Queen, Club, Queen}
+{3, Spades, Three}
+{Jack, Club, Jack}
+{Ace, Diamond, Ace}
+{4, Spades, Four}
+{4, Hearts, Four}
+{King, Hearts, King}
+{10, Club, Ten}
+{9, Hearts, Nine}
+{10, Hearts, Ten}
+{5, Diamond, Five}
+{Ace, Hearts, Ace}
+{5, Club, Five}
+{10, Hearts, Ten}
+{Ace, Diamond, Ace}
+{2, Hearts, Two}
+{10, Spades, Ten}
+{2, Diamond, Two}
+{2, Club, Two}
+{9, Spades, Nine}
+{6, Club, Six}
+{8, Spades, Eight}
+{7, Spades, Seven}
+{Queen, Hearts, Queen}
+
+
+ali Showing Hand---
+
+{Queen, Hearts, Queen}
+{3, Club, Three}
+{6, Diamond, Six}
+{Queen, Diamond, Queen}
+{8, Club, Eight}
+{3, Diamond, Three}
+{8, Hearts, Eight}
+{King, Diamond, King}
+{3, Club, Three}
+{Queen, Spades, Queen}
+{Queen, Spades, Queen}
+{5, Spades, Five}
+{7, Club, Seven}
+{8, Diamond, Eight}
+{Jack, Spades, Jack}
+{2, Diamond, Two}
+{9, Club, Nine}
+{9, Diamond, Nine}
+{7, Spades, Seven}
+{6, Hearts, Six}
+{King, Diamond, King}
+{8, Club, Eight}
+{Jack, Club, Jack}
+{Jack, Diamond, Jack}
+{5, Spades, Five}
+{6, Diamond, Six}
+{10, Spades, Ten}
+{Ace, Hearts, Ace}
+{Queen, Diamond, Queen}
+{9, Spades, Nine}
+
+
+raqeeb Showing Hand---
+
+{10, Diamond, Ten}
+{3, Spades, Three}
+{Jack, Hearts, Jack}
+{10, Diamond, Ten}
+{6, Hearts, Six}
+{King, Spades, King}
+{6, Club, Six}
+{7, Hearts, Seven}
+{7, Hearts, Seven}
+{3, Hearts, Three}
+{Ace, Club, Ace}
+{Ace, Spades, Ace}
+{2, Spades, Two}
+{6, Spades, Six}
+{3, Diamond, Three}
+{4, Club, Four}
+{5, Diamond, Five}
+{4, Diamond, Four}
+{5, Hearts, Five}
+{8, Spades, Eight}
+{9, Club, Nine}
+{4, Diamond, Four}
+{3, Hearts, Three}
+{2, Club, Two}
+{5, Hearts, Five}
+{8, Hearts, Eight}
+{10, Club, Ten}
+{2, Spades, Two}
+{Queen, Club, Queen}
+
+
